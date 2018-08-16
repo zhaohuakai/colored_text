@@ -1,7 +1,7 @@
 # colored_text
 print colored text on the console
 
-[result](20180816233802.png)
+![result](20180816233802.png)
 
 [ANSI](https://zh.wikipedia.org/wiki/ANSI%E8%BD%AC%E4%B9%89%E5%BA%8F%E5%88%97)
 
